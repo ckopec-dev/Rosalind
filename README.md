@@ -5,8 +5,8 @@ Various solutions to [Rosalind](https://rosalind.info/).
 |Language|Status|Count|
 |---|---|---|
 |Ada|Complete|263|
-|Assembly|Incomplete|47|
-|Assembly|Complete|216|
+|Assembly|Incomplete|44|
+|Assembly|Complete|219|
 |C|Incomplete|192|
 |C|Complete|71|
 |C#|Incomplete|210|
